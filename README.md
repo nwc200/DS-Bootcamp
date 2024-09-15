@@ -27,4 +27,10 @@ To create new virtual environment -> `python3 -m venv .venv`
 To activate existing virtual environment -> `source .venv/bin/activate`
 
 ## Install requirements.txt
-pip install -r requirements.txt
+**Windows**
+
+`py -m pip install -r requirements.txt`
+
+**Mac**
+
+`pip install -r requirements.txt`
