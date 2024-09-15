@@ -5,7 +5,7 @@
 ## Download ollama
 1) Head to https://ollama.com/download and download ollama
 2) Open the ollama application
-3) Enter and run the following commanq `ollama pull llama3.1`
+3) Enter and run the following command `ollama pull llama3.1`
 
 ## Get Tavili API Key
 1) Headt to https://tavily.com/
