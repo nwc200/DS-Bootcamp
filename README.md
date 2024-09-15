@@ -10,10 +10,10 @@
 ## Get Tavili API Key
 1) Headt to https://tavily.com/
 2) Sign up/Login 
-3) Copy paste the API key from https://app.tavily.com/home
+3) Copy paste the API key from https://app.tavily.com/home to your .env file
 
 # Set-up
-## Activating Virual
+## Activating Virual Environment
 To create new virtual environment -> py -m venv .venv
 To activate existing virtual environment -> .venv\Scripts\activate
 
