@@ -6,7 +6,7 @@
 1) Head to https://ollama.com/download and download ollama
 2) Run the ollama application
 3) Run the following command in your command prompt `ollama pull llama3.1`
-4) Run the following command command prompt `mxbai-embed-large`
+4) Run the following command command prompt `ollama pull mxbai-embed-large`
 
 ### Get Tavili API Key
 1) Headt to https://tavily.com/
